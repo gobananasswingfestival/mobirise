@@ -43,7 +43,12 @@
     "uniqCompNum": 45,
     "versionPublish": "4.9.5",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://gobananasswingfestival.com/",
+    "sitemapSwitcherAuto": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
