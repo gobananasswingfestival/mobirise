@@ -8649,15 +8649,15 @@ body {
     width: 100% !important;
   }
 }
-.cid-rK9G69ouQI {
+.cid-rOSlnypxav {
   padding-top: 45px;
   padding-bottom: 45px;
   background: linear-gradient(45deg, #ffe2ae, #ffe2ae);
 }
-.cid-rK9G69ouQI .list-group-item {
+.cid-rOSlnypxav .list-group-item {
   padding: .75rem 3.25rem;
 }
-.cid-rK9G69ouQI .plan {
+.cid-rOSlnypxav .plan {
   word-break: break-word;
   position: relative;
   max-width: 300px;
@@ -8665,13 +8665,13 @@ body {
   padding-left: 0;
   color: #767676;
 }
-.cid-rK9G69ouQI .plan .list-group-item {
+.cid-rOSlnypxav .plan .list-group-item {
   position: relative;
   -webkit-justify-content: center;
   justify-content: center;
   border: 0;
 }
-.cid-rK9G69ouQI .plan .list-group-item::after {
+.cid-rOSlnypxav .plan .list-group-item::after {
   position: absolute;
   bottom: 0;
   left: 20%;
@@ -8680,44 +8680,44 @@ body {
   content: "";
   background-color: #eaeaea;
 }
-.cid-rK9G69ouQI .plan .list-group-item:last-child::after {
+.cid-rOSlnypxav .plan .list-group-item:last-child::after {
   display: none;
 }
-.cid-rK9G69ouQI .plan-header {
+.cid-rOSlnypxav .plan-header {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-.cid-rK9G69ouQI .plan-header,
-.cid-rK9G69ouQI .plan-body {
+.cid-rOSlnypxav .plan-header,
+.cid-rOSlnypxav .plan-body {
   background-color: #fff;
 }
-.cid-rK9G69ouQI .price-figure {
+.cid-rOSlnypxav .price-figure {
   font-weight: 700;
   color: #009496;
   text-align: center;
 }
-.cid-rK9G69ouQI .price-value {
+.cid-rOSlnypxav .price-value {
   font-weight: 700;
   vertical-align: top;
 }
 @media (max-width: 550px) {
-  .cid-rK9G69ouQI .price-figure {
+  .cid-rOSlnypxav .price-figure {
     font-size: 4.25rem;
   }
 }
-.cid-rK9G69ouQI .plan-title {
+.cid-rOSlnypxav .plan-title {
   color: #fc7578;
 }
-.cid-rK9G69ouQI SPAN {
+.cid-rOSlnypxav SPAN {
   color: #009496;
 }
-.cid-rK9G69ouQI .price-term {
+.cid-rOSlnypxav .price-term {
   color: #009496;
 }
-.cid-rK9G69ouQI LI {
+.cid-rOSlnypxav LI {
   color: #009496;
 }
-.cid-rK9G69ouQI UL {
+.cid-rOSlnypxav UL {
   color: #009496;
 }
 .cid-rK9G83bLHu {
