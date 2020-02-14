@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Go Bananas! Swing Festival",
-    "currentPage": "talleres-fiestas.html",
+    "currentPage": "english.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5809,7 +5809,7 @@
                 "alt": "The Hall - lugar de las fiestas de Go Bananas! Swing Festival 2020",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "The Hall - Fiesta Viernes &amp; Sábado",
+                "caption": "The Hall - Fiesta Viernes &amp; Sábado<br><br>",
                 "active": false
               },
               {
@@ -5822,7 +5822,7 @@
                 "alt": "The Hall - lugar de las fiestas de Go Bananas! Swing Festival 2020",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "The Hall - Fiesta Viernes &amp; Sábado",
+                "caption": "The Hall - Fiesta Viernes &amp; Sábado<br><br>",
                 "active": false
               },
               {
@@ -5835,7 +5835,7 @@
                 "alt": "The Hall - lugar de las fiestas de Go Bananas! Swing Festival 2020",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "The Hall - Fiesta Viernes &amp; Sábado",
+                "caption": "The Hall - Fiesta Viernes &amp; Sábado<br><br>",
                 "active": false
               }
             ]
@@ -10945,7 +10945,7 @@
                 "alt": "The Hall - Location of Friday and Saturday parties, Go Bananas! Swing Festival 2020",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "The Hall - Friday &amp; Saturday Parties",
+                "caption": "The Hall - Friday &amp; Saturday Parties<br><br>",
                 "active": false
               },
               {
@@ -10958,7 +10958,7 @@
                 "alt": "The Hall - Location of Friday and Saturday parties, Go Bananas! Swing Festival 2020",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "The Hall - Friday &amp; Saturday Parties",
+                "caption": "The Hall - Friday &amp; Saturday Parties<br><br>",
                 "active": false
               },
               {
@@ -10971,7 +10971,7 @@
                 "alt": "The Hall - Location of Friday and Saturday parties, Go Bananas! Swing Festival 2020",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "The Hall - Friday &amp; Saturday Parties",
+                "caption": "The Hall - Friday &amp; Saturday Parties<br><br>",
                 "active": false
               }
             ]
